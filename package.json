@@ -1,0 +1,24 @@
+{
+  "name": "sshx",
+  "version": "1.1.0",
+  "description": "SSH-Utility to create on the fly ssh connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssh",
+    "sshx"
+  ],
+  "bin": {
+    "sshx": "./index.js"
+  },
+  "author": "dwyschka",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "dwyschka/Caporal.js",
+    "lodash": "^4.17.4",
+    "lowdb": "^0.16.2",
+    "prompt": "^1.0.0"
+  }
+}
