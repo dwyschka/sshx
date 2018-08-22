@@ -1,6 +1,6 @@
 {
   "name": "sshx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "SSH-Utility to create on the fly ssh connections",
   "main": "index.js",
   "scripts": {
